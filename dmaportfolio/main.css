@@ -630,5 +630,21 @@ input[type="submit"]:hover{
         margin: 0;
         order: 2;
     }
+
+    .timeline p{
+        font-size: 1.6rem;
+    }
+
+    .timeline .date::before{
+        font-size: 1.4rem;
+    }
+
+    form{
+        width: 100%;
+    }
+
+    .up{
+        right: 2rem;
+    }
 }
 /*End media queries*/
