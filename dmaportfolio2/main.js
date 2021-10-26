@@ -15,11 +15,14 @@ $(document).ready(function () {
     //     }, options,2000);
     // });
 
-    // $('#up').on('click', function () {
-    //     $('html, body').animate(keyframes, {
-    //         scrollTop: 0
-    //      }, options,2000);
-    // });
+    $('#up').on('click', function () {
+        document.body.bodyscrollTop = 0, options = 2000
+        document.documentElement.scrollTop = 0;
+    });
+
+    // function topFunction() {
+    //     document.body.scrollTop = 0; // For Safari
+    //     document.documentElement.scrollTop = 0; 
 
     AOS.init({
         easing: 'ease',
