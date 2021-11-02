@@ -329,16 +329,21 @@ bar.half{
     align-items: center;
     justify-content: center;
     margin-bottom: 5rem;
+    padding: 1rem;
     
 }
 
 .portfolio-item:last-child{
     margin-bottom: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 .profile-img{
     width: 50rem;
     flex: 1;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 .portfolio-description{
