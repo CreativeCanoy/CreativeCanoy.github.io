@@ -341,7 +341,8 @@ bar.half{
 
 .profile-img{
     width: 50rem;
-    flex: 1;
+    display: flex;
+    
     padding-left: 1rem;
     padding-right: 1rem;
 }
