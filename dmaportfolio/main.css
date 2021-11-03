@@ -249,6 +249,7 @@ bar.half{
 .profile-img{
     flex: 1;
     margin-right: 5rem;
+    width: 70%;
 }
 
 .about-details{
