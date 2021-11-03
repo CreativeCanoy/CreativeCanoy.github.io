@@ -375,6 +375,12 @@ bar.half{
 .portfolio-description .cta:hover{
     color:#2f67cd
 }
+
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 1rem;
+}
 /*End services*/
 
 
