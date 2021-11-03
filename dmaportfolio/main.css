@@ -348,6 +348,7 @@ bar.half{
 }
 
 .portfolio-description{
+    width: 75%;
 }
 
 
@@ -371,10 +372,11 @@ bar.half{
     text-transform: uppercase;
     color: #3883ff;
     transition: color 650ms;
+    
 }
 
 .portfolio-description .cta:hover{
-    color:#2f67cd
+    color:#D1E000;
 }
 
 .resp-container {
@@ -476,7 +478,7 @@ textarea{
 input[type="submit"]{
     width: initial;
     background-color: #D1E000;
-    color: #eee;
+    color: #000;
     padding: 1rem 2rem;
     border-radius: .8rem;
     cursor: pointer;
