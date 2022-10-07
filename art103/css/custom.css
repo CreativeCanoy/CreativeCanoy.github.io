@@ -1,8 +1,12 @@
 body {
 
-color:rgb(255, 25, 0);
+color:rgb(253, 253, 253);
 background-color: #0088ff;
 
+}
+
+img {
+  display: block;
 }
 
 .widecontainer {
