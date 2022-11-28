@@ -1,11 +1,12 @@
 body {
 
-color:#fa0;
-background-color: #0088ff;
+color:rgb(0, 0, 0);
+background-color: #ffffff;
 
 }
 
 .widecontainer {
+  
   position: relative;
   width: 100%;
   max-width: 1500px;
@@ -14,18 +15,19 @@ background-color: #0088ff;
   box-sizing: border-box; }
 
 a {
-  color: #5f7; 
+  color: rgb(17, 158, 205); 
   text-decoration: none;
 }
 
 a:hover{
-  color:#0CF;
+  color:rgb(215, 88, 86);
   /*text-decoration: underline;*/
 }
 .nav_pad{
   padding-top:40px;
 }
 .section{
+  background-color: #afafaf;
   padding-top: 30px;
   padding-bottom:40px;
 
@@ -62,7 +64,7 @@ ul.disc{
 
 .statement_text {
     color:#444;
-    background-color: #0f0;
+    background-color: rgb(255, 255, 255);
     padding: 8px;
     margin-top: 20px;
     border: 1px dashed black;
