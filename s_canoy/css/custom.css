@@ -11,7 +11,7 @@ background-color: #ffffff;
   width: 100%;
   max-width: 1500px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 20px; 
   box-sizing: border-box; }
 
 a {
@@ -30,6 +30,8 @@ a:hover{
   background-color: #afafaf;
   padding-top: 30px;
   padding-bottom:40px;
+  padding-left: 30px;
+  
 
 }
 
