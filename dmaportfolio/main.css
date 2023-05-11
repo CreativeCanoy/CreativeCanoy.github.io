@@ -384,6 +384,11 @@ bar.half{
     overflow: hidden;
     padding-top: 1rem;
 }
+
+video {
+    max-width: 100%;
+    max-height: auto;
+}
 /*End services*/
 
 
