@@ -334,6 +334,9 @@ bar.half{
     
 }
 
+figcaption{
+    
+}
 .portfolio-item:last-child{
     margin-bottom: 0;
     padding-left: 1rem;
