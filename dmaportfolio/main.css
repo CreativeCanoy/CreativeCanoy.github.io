@@ -335,7 +335,7 @@ bar.half{
 }
 
 figcaption{
-    
+    font-size: 18px;
 }
 .portfolio-item:last-child{
     margin-bottom: 0;
