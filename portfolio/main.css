@@ -644,7 +644,7 @@ input[type="submit"]:hover{
 
     .portfolio-item{
         flex-direction: column;
-        flex: 1;
+        
     }
 
     .portfolio-img{
