@@ -644,14 +644,17 @@ input[type="submit"]:hover{
 
     .portfolio-item{
         flex-direction: column;
+        flex: 1;
     }
 
     .portfolio-img{
+        width: 100px;
         margin: 0 0 2rem 0;
         order: 1;
     }
 
     .portfolio-description{
+
         margin: 0;
         order: 2;
     }
