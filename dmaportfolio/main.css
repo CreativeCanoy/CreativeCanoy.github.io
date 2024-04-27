@@ -337,6 +337,8 @@ bar.half{
 figcaption{
     font-size: 18px;
 }
+
+
 .portfolio-item:last-child{
     margin-bottom: 0;
     padding-left: 1rem;
@@ -642,6 +644,7 @@ input[type="submit"]:hover{
 
     .portfolio-item{
         flex-direction: column;
+        
     }
 
     .portfolio-img{
@@ -650,6 +653,7 @@ input[type="submit"]:hover{
     }
 
     .portfolio-description{
+
         margin: 0;
         order: 2;
     }
