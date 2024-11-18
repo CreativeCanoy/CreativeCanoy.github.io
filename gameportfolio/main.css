@@ -265,16 +265,12 @@ bar.half{
     transition: color 650ms;
 }
 
-.fa-facebook-square:hover{
-    color: #4267b2;
-}
-
 .fa-twitter-square:hover{
     color: #38a1f3;
 }
 
-.fa-instagram:hover{
-    color: #ea4c89;
+.icon-link:hover .fa-ibio-credly {
+    color: #1e25b6; /* Change to your desired hover color */
 }
 
 /*End about*/
