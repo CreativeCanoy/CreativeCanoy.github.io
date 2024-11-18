@@ -265,14 +265,14 @@ bar.half{
     transition: color 650ms;
 }
 
-.fa-twitter-square:hover{
-    color: #38a1f3;
-}
-
 .icon-link .fab.fa-linkedin-in:hover {
     color: #1e25b6; /* Change to your desired hover color */
 }
 
+.fa-certificate:hover {
+    color: #f5a111;  /* Set the hover color to your desired color */
+    transition: color 0.3s ease;  /* Optional: Smooth transition effect */
+}
 /*End about*/
 
 
