@@ -269,7 +269,7 @@ bar.half{
     color: #38a1f3;
 }
 
-.icon-link:hover .fa-ibio-credly {
+.icon-link .fab.fa-linkedin-in:hover {
     color: #1e25b6; /* Change to your desired hover color */
 }
 
